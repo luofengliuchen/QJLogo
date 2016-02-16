@@ -11,7 +11,7 @@ import android.util.AttributeSet;
 import android.view.View;
 
 /**
- * Created by liuchen on 2016/1/12.
+ * Created by liuchen on 2016/1/12.草稿
  */
 public class QJLogo extends View {
 
